@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Cantarell, 'Droid Sans', Ubuntu, 'DejaVu Sans', Arial, sans-serif;
+font-size: 14px;
+line-height: 1.6;
+color: #2e3436;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #4a86cf;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.topnav a:hover {
+  background-color: #6e9ed9;
+}
+
+.topnav a.active {
+  background-color: #3968a1;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 2px 16px;
+  text-decoration: none;
+  font-size: 10px;
+}
